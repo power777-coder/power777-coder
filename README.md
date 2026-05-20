@@ -4,6 +4,17 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+💻;UI%2FUX+Enthusiast+🎨;AI+Project+Builder+🚀;Creative+Tech+Explorer+✨" alt="Typing SVG" />
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/Full%20Stack%20Developer-8A2BE2?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Django-Developer-blue?style=for-the-badge&logo=django" />
+
+<img src="https://img.shields.io/badge/React-Enthusiast-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+
+<img src="https://img.shields.io/badge/AI-Projects-purple?style=for-the-badge" />
+
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:6A5ACD&height=120&section=header"/>
 
@@ -31,20 +42,37 @@
 
 ---
 
-# 🚀 Featured Project
+# 🚀 Featured Live Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-## ✨ PromptPix
+## ♻️ JunkMukti
 
-### AI-powered Image Generation Platform
+Full-stack waste-to-wealth marketplace platform focused on sustainability and recycling.
 
-Generate stunning visuals from text prompts using AI 🎨
+### ⚡ Tech Used
+Django • MySQL • HTML • CSS • JavaScript
 
-🔗 **Live Demo:**  
-### 👉 https://prompt-pix-beta.vercel.app/
+🔗 https://junkmukti.onrender.com
 
-</div>
+</td>
+
+<td width="50%">
+
+## 🎨 PromptPix
+
+AI-powered platform to generate visuals from text prompts.
+
+### ⚡ Tech Used
+React • Node.js • AI APIs • MongoDB
+
+🔗 https://prompt-pix-beta.vercel.app/
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -79,6 +107,7 @@ Generate stunning visuals from text prompts using AI 🎨
 |------------|----------------|
 | 🛒 **JunkMukti** | Full-stack waste-to-wealth marketplace using Django & MySQL |
 | 🩺 **MedcoreAI** | AI-powered healthcare assistant for symptom analysis |
+| 🎨 **PromptPix** | AI-powered image generation platform using text prompts |
 | 🎬 **Netflix Clone** | Responsive Netflix-inspired frontend UI |
 | 🌐 **React Portfolio** | Dynamic portfolio with reusable React components |
 
@@ -121,6 +150,10 @@ Generate stunning visuals from text prompts using AI 🎨
 <a href="https://www.linkedin.com/in/kresha-shah-160733271/">
   <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
+
+ <a href="https://codolio.com/profile/new_learner">
+    <img src="https://img.shields.io/badge/Codolio-Portfolio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
 
 <a href="mailto:shahkresha953@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
