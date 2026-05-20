@@ -151,13 +151,13 @@ React • Node.js • AI APIs • MongoDB
   <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
- <a href="https://codolio.com/profile/new_learner">
-    <img src="https://img.shields.io/badge/Codolio-Portfolio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-
 <a href="mailto:shahkresha953@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
+
+ <a href="https://codolio.com/profile/new_learner">
+    <img src="https://img.shields.io/badge/Codolio-Portfolio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
 
 </div>
 
