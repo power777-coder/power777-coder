@@ -118,7 +118,7 @@ Generate stunning visuals from text prompts using AI 🎨
   <img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/kresha-shah-160733271/">
   <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
