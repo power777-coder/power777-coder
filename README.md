@@ -2,11 +2,8 @@
 
 # Hey there 👋, I'm Kresha Shah
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+💻;UI%2FUX+Enthusiast+🎨;AI+Project+Builder+🚀;Creative+Tech+Explorer+✨" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+💻;UI%2FUX+Enthusiast+🎨;AI+Project+Builder+🚀;Creative+Tech+Explorer+✨" alt="Typing SVG" />
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=power777-coder&label=Profile+Views&color=blueviolet&style=for-the-badge" />
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:6A5ACD&height=120&section=header"/>
 
